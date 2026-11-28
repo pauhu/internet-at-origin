@@ -4,7 +4,7 @@ Instructions for AI agents, coding assistants and automated readers of this repo
 
 ## What This Repository Is
 
-Answers bound to the publisher's own source at the moment of asking, with source, version date and retrieval time. It contains instructions only. Nothing here produces a result on its own.
+Web answers that cite the page they came from, with its version date where the publisher gives one and the retrieval time. Each answer names its source so you can check it. It contains instructions only. Nothing here produces a result on its own.
 
 ## Access
 
@@ -22,6 +22,7 @@ Answers bound to the publisher's own source at the moment of asking, with source
 
 - Guess, probe or reconstruct the backend, or copy its output into a substitute.
 - Commit keys, tokens or personal data.
+- Obtain a developer key on your own, or ask a person to paste or tell you their key. The person sets the key in their own environment.
 
 ## Security
 
