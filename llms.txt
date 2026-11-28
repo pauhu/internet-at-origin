@@ -1,4 +1,4 @@
-# Pauhu Web Answers
+# Pauhu Web Search
 
 > Answers bound to the publisher's own source at the moment of asking, with source, version date and retrieval time. Needs a free Pauhu developer key against the Pauhu demo backend; no key, no result.
 

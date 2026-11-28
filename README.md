@@ -1,4 +1,4 @@
-# Pauhu Web Answers
+# Pauhu Web Search
 
 Answers bound to the publisher's own source at the moment of asking, with source, version date and retrieval time.
 
