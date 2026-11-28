@@ -1,4 +1,4 @@
-# Pauhu client
+# Pauhu Web Answers
 
 Answers bound to the publisher's own source at the moment of asking, with source, version date and retrieval time.
 
@@ -8,3 +8,5 @@ Answers bound to the publisher's own source at the moment of asking, with source
 - MCP clients: [server.json](server.json) (remote, header `Authorization: Bearer <key>`).
 
 Status: proposed. Licence: Apache-2.0.
+
+Copyright © 2026 Pauhu Ltd. Written and maintained by Pauhu Ltd.
